@@ -33,10 +33,14 @@ export const Route = createRootRoute({
       { name: "description", content: "陪伴 250+ 女性，用 AI 创造属于自己的作品。bala 的个人网站。" },
       { name: "author", content: "bala" },
       { property: "og:title", content: "bala — Building for Women in AI" },
-      { property: "og:description", content: "陪伴 250+ 女性，用 AI 创造属于自己的作品。" },
+      { property: "og:description", content: "陪伴 250+ 女性，用 AI 创造属于自己的作品。bala 的个人网站。" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "bala — Building for Women in AI" },
+      { name: "twitter:description", content: "陪伴 250+ 女性，用 AI 创造属于自己的作品。bala 的个人网站。" },
+      { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/d9349133-0fe9-4853-b85d-d34b6354a825" },
+      { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/d9349133-0fe9-4853-b85d-d34b6354a825" },
     ],
     links: [
       {
