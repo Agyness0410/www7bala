@@ -111,10 +111,8 @@ function Index() {
         </div>
 
         <h1 className="animate-fade-up delay-100 mt-8 font-display text-5xl font-light leading-[1.05] tracking-tight md:text-7xl lg:text-8xl">
-          Building for{" "}
-          <span className="text-gradient italic">Women</span>
-          <br />
-          in <span className="text-gradient italic">AI</span>.
+          AI Builds for{" "}
+          <span className="text-gradient italic">Womxn</span>
         </h1>
 
         <p className="animate-fade-up delay-200 mt-8 max-w-xl text-lg leading-relaxed text-muted-foreground md:text-xl">
