@@ -110,14 +110,14 @@ function Index() {
           女性社区主理人 · AI 探索者
         </div>
 
-        <h1 className="animate-fade-up delay-100 mt-8 font-display text-5xl font-light leading-[1.05] tracking-tight md:text-7xl lg:text-8xl">
-          AI Builds for{" "}
-          <span className="text-gradient italic">Womxn</span>
+        <h1 className="animate-fade-up delay-100 mt-8 font-display text-4xl font-light leading-[1.15] tracking-tight md:text-5xl lg:text-6xl">
+          我是 <span className="text-gradient font-medium">bala</span> — <br className="hidden md:block" />
+          陪伴 250+ 女性，用 AI 创造自己的作品。<br className="hidden md:block" />
+          相信技术应该让更多她，被看见、被听见、被赋能。
         </h1>
 
-        <p className="animate-fade-up delay-200 mt-8 max-w-xl text-lg leading-relaxed text-muted-foreground md:text-xl">
-          我是 bala — 陪伴 <span className="text-foreground">250+ 女性</span>，用 AI
-          创造属于自己的作品。相信技术应该让更多她，被看见、被听见、被赋能。
+        <p className="animate-fade-up delay-200 mt-6 text-xl font-light text-primary/80 md:text-2xl">
+          快加入吧
         </p>
 
         <div className="animate-fade-up delay-300 mt-10 flex flex-wrap items-center gap-4">
